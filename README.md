@@ -1,2 +1,2 @@
 # CodeUp
-CodeUp 기초 100제 - Python
+CodeUp 문제풀이
